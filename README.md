@@ -15,7 +15,7 @@ O objetivo é construir uma aplicação web front-end que mostre os Resultados d
 - [material ui](https://mui.com/)
 - [API utilizada no projeto](https://brainn-api-loterias.herokuapp.com/api/v1/docs/)
 ## 🔗 Link Surge: 
-Acesse nosso site [clicando aqui!](https://brainn-mike.surge.sh/)
+Acesse nosso site [clicando aqui!](https://rodada-cases-semana-4.vercel.app)
 <br>
 
 ## 📸 Imagens:
